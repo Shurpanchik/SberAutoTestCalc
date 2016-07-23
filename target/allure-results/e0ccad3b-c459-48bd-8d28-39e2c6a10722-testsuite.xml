@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1466352330861" stop="1466352331220" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>com.shur.sbertech.test.CalculateTest</name>
+    <test-cases>
+        <test-case start="1466352330880" stop="1466352330904" status="passed">
+            <name>testCalc[0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="таня-DNS"/>
+                <label name="thread" value="6700@таня-DNS.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1466352331199" stop="1466352331199" status="passed">
+            <name>testCalc[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="таня-DNS"/>
+                <label name="thread" value="6700@таня-DNS.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
